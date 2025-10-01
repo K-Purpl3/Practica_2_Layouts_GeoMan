@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Play Juegos"
         android:textSize="24sp"
+        android:famiy="courgette_regular"
         android:gravity="center"
         android:layout_marginBottom="24dp" />
 
